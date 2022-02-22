@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon upon Revel. II, 11, &amp;c. summoning the expectation of the witnesses rising and of the great concurrent works daily shewing forth themselves, and to be compleat by 1697 : together with the surprizing confirmations of the line of time and the 1260 days of years ending 1697 ... / by T. Beverley.</title>
+            <author>Beverley, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27626</idno>
+            <idno type="STC">Wing B2176</idno>
+            <idno type="STC">ESTC R5617</idno>
+            <idno type="EEBO-CITATION">13085290</idno>
+            <idno type="OCLC">ocm 13085290</idno>
+            <idno type="VID">97297</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27626)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97297)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 408:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon upon Revel. II, 11, &amp;c. summoning the expectation of the witnesses rising and of the great concurrent works daily shewing forth themselves, and to be compleat by 1697 : together with the surprizing confirmations of the line of time and the 1260 days of years ending 1697 ... / by T. Beverley.</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Salisbury ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Revelation XI, 11 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97297:1"/>
+            <pb facs="tcp:97297:1" rendition="simple:additions"/>
+            <p>A SERMON Upon <hi>Revel.</hi> 11.11, &amp;c. SUMMONING The Expectation of the Witneſſes Riſing AND OF THE Great Concurrent Works Daily ſhewing forth Themſelves, and to be Compleat by 1697. TOGETHER WITH The Surprizing Confirmations of the <hi>Line</hi> of <hi>Time,</hi> and the 1260 Days of Years ending 1697. Deſign'd as an Encouragement of Earneſt Prayer, With Aſſured Faith and Hope of the Bleſſing of God on the Arms of <hi>Proteſtant Princes;</hi> and par<g ref="char:EOLhyphen"/>ticularly, of our King, and the Change of the State of the Suffering Witneſſes in <hi>France.</hi>
+            </p>
+            <p>By <hi>T. BEVERLEY.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Iſa. 51.9.</hi>
+               </bibl>
+               <p>Awake, Awake, O Arm of the Lord.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Salisbury,</hi> at the <hi>Riſing Sun</hi> in <hi>Cornhil,</hi> near the <hi>Royal Exchange.</hi> 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:97297:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:97297:2"/>
+            <head>A SERMON UPON THE Riſing of the Witneſſes; AND THE Great Works, that ſhall therewith ſhew forth Themſelves, ſo as to be Compleated by 1697.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Revel. 11.11, &amp;c.</hi>
+                  </bibl>
+                  <p>And after three Days and an Half, the Spirit of Life from God entred into them, and they ſtood upon their Feet, and great Fear fell upon them that ſaw them; And they heard a great Voice fram Heaven, ſaying unto them, Come up hither. And they aſcended in a Cloud, and their Enemies beheld them. In the ſame Hour was there a great Earth<g ref="char:EOLhyphen"/>quake, and the Tenth part of the City fell; and in the Earthquake were ſlain ſeven thouſand Names of Men; And the Remnant were affrighted, and gave Glory to the God of Heaven. The ſecond Woe is paſt, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>IT hath pleaſed God, beyond all my former Thoughts on this Scripture, Providentially to lead me to ſuch a Re<g ref="char:EOLhyphen"/>view of it, as thereby to ſhew me, that the great things of this Context muſt be Fullfill'd before the End of the 1260 <hi>Days;</hi> If therefore the <hi>Calculation</hi> I have given, be Juſt
+<pb n="2" facs="tcp:97297:3"/>and Right, and according to <hi>Scripture,</hi> of which I have before and do now offer my <hi>Evidences</hi> from it ſo full, that I cannot but be Aſſured my ſelf, It is ſo; And hope every conſidering Perſon will be alſo aſſured as that the 1260 <hi>Days</hi> ſhall End 97. And if ſo, there are ſo great Things to be done from this Year to that Time, that we may very well be in a conti<g ref="char:EOLhyphen"/>nual Expectation what God will graciouſly pleaſe to do this Year, and every following Year; till all things are made rea<g ref="char:EOLhyphen"/>dy for the <hi>Proclamation</hi> of his <hi>Kingdom,</hi> as in its Succeſſion, that is immediately to enſue at the Sound of the <hi>Seventh Trum<g ref="char:EOLhyphen"/>pet;</hi> which ſhall even then begin to <hi>ſound,</hi> when thoſe 1260 <hi>Days</hi> ſhall end.</p>
+            <p>I come therefore to the cloſeſt Conſideration of this great Portion of <hi>Prophecy,</hi> I have propoſed to Diſcourſe of. And here I find ſix great Effects that muſt needs come, according to this <hi>Prophecy,</hi> before the 1260 <hi>Days</hi> are ended: Seeing then, there are but <hi>five Summers,</hi> and the <hi>ſixth,</hi> wherein the <hi>Kingdom of Chriſt</hi> is to enter its <hi>Succeſſion,</hi> and 1260 <hi>Days</hi> ſo to End. There is great Reaſon of Expectation, and of be<g ref="char:EOLhyphen"/>ing every Year upon our Watch, to ſee what God will pleaſe to do; ſeeing there are ſo great things to be done, and ſo lit<g ref="char:EOLhyphen"/>tle time to do them in, How great then may our Expectati<g ref="char:EOLhyphen"/>on be? Indeed we may not <hi>Limit the Holy One of</hi> Iſrael to any Time, who made the <hi>World in ſix days;</hi> yet according to the General Procedure of Providence, which is not in the (yet) Time of the <hi>ſixth Trumpet</hi> ſo ſpeedy, as it will be in the Time of the <hi>Seventh</hi> that comes, and ſhall move ſo quickly, and ſpeed all its Events, when the <hi>ſixth</hi> is at an End; Before that, becauſe of the ſlow Motion of the <hi>ſixth,</hi> the <hi>Two Woes</hi> are ſaid to <hi>come hereafter, Rev.</hi> 9.12. that is, by Leiſure. So thr <hi>ſixth Trumpet,</hi> though its Motion ſhall be more ſwift at the End; Yet it is ſlower than the <hi>ſeventh,</hi> which is ſaid to <hi>come quickly;</hi> Not becauſe it ſhall come immediately after the <hi>ſixth;</hi> for ſo the <hi>ſixth</hi> did after the <hi>fifth;</hi> but becauſe it ſhall in a ſhort Time accompliſh its Great Effects; Accord<g ref="char:EOLhyphen"/>ing therefore to the preſent Procedure of Providence, I ſay, there is but ſo much Time left, as is neceſſary to bring theſe
+<pb n="3" facs="tcp:97297:3"/>great Effects to paſs one after another (with which <hi>Prophecy</hi> hath charged it ſelf) before the 1260 Days end.</p>
+            <p>
+               <hi>Effect</hi> 1. The <hi>Spirit of Life muſt enter from God into the Wit<g ref="char:EOLhyphen"/>neſſes,</hi> in ſo Remarkable a manner, <hi>ſetting</hi> Them upon their <hi>Feet,</hi> that <hi>All that ſee</hi> ſhall behold Them with Terror; They ſhall ſay, This is the <hi>Finger of God;</hi> This is from <hi>Heaven;</hi> Something of this hath been done in <hi>Ireland</hi> and <hi>Piedmont,</hi> but not to ſuch <hi>a Degree,</hi> as that <hi>Their Enemies,</hi> and <hi>Others,</hi> ſhould find ſo <hi>Remarkable a Terror at it.</hi>
+            </p>
+            <p>
+               <hi>Feet</hi> in <hi>Scripture</hi> ſignifie ſome <hi>very Remarkable Tydings and Events: How Beautiful upon the Mountains are the Feet of him that bringeth Glad Tydings.</hi> It ſpeaketh <hi>steddineſs</hi> and <hi>aſſu<g ref="char:EOLhyphen"/>rance of Succeſs.</hi> It is ſaid of <hi>Chriſt,</hi> His <hi>Feet ſhall stand on Mount Olivet.</hi> It imports <hi>Self ſupport,</hi>
+               <note place="margin">
+                  <hi>Zech.</hi> 14</note> 
+               <hi>Self-ſubſistence of the Witneſſes,</hi> and to ſuch a <hi>Degree,</hi> that <hi>All that behold them ſhall ſay, Whereunto will this Thing Grow?</hi>
+            </p>
+            <p>Obſerve it therefore, whenever you ſee thoſe <hi>ſuffering, op<g ref="char:EOLhyphen"/>preſſed Proteſtants</hi> in <hi>France</hi> and <hi>Piedmont,</hi> like <hi>Feet of Braſs,</hi> now <hi>Burning in a Furnace,</hi> that they may come out <hi>Refined</hi> and <hi>Purified,</hi> and <hi>Reſt upon themſelves in open View;</hi> Then Expect, and Look for the <hi>Approaching Kingdom of Chriſt;</hi> It will be as <hi>a Signal given,</hi> as <hi>a Beacon fired;</hi> It will be as the <hi>Fig Tree Bloſſoming, and ſending forth its Buds:</hi> Then <hi>Lift up your Heads,</hi> for <hi>Redemption draweth nigh.</hi> Then it will be <hi>nigh, even at the Doors.</hi> And why may not this be <hi>this Summer,</hi> if God be pleaſed by this Diſcourſe to ſtir up our <hi>Faith, Hope, Expectation,</hi> and <hi>Earneſt Prayer,</hi> our <hi>Humiliation, Faſting, Re<g ref="char:EOLhyphen"/>pentance,</hi> and <hi>Reformation?</hi>
+            </p>
+            <p>
+               <hi>Effect</hi> 2. There muſt be a <hi>mighty Voice from Heaven to Call Theſe Witneſſes up into Heaven.</hi> And <hi>They ſhall Aſcend, Cha<g ref="char:EOLhyphen"/>riotted by a Cloud:</hi> And this peculiarly <hi>Their Enemies</hi> ſhall <hi>be<g ref="char:EOLhyphen"/>hold;</hi> and <hi>They ſhall behold it</hi> (as the <hi>Former</hi> alſo was <hi>beheld</hi>) with <hi>Gaze,</hi> with a <hi>Theoric Eye,</hi> a <hi>Conſideration,</hi> a <hi>Contempla<g ref="char:EOLhyphen"/>ting Look.</hi> Now Their being <hi>Call'd up to Heaven,</hi> may ſig<g ref="char:EOLhyphen"/>nifie Two Things:</p>
+            <list>
+               <item>1. Their being <hi>enfranchis'd</hi> into the <hi>pure Worſhip of God,</hi> according to the Goſpel, which, as it is often Repreſented by
+<pb n="4" facs="tcp:97297:4"/>the <hi>Kingdom of Heaven</hi> in other Scriptures; ſo hath in this <hi>Prophecy</hi> a Secondary Senſe of the State of the Chriſtian Church on Earth; as a <hi>Counter-part</hi> or <hi>Sample</hi> of what is done in Hea<g ref="char:EOLhyphen"/>ven: So the <hi>Loud Voices in Heaven,</hi> juſt after the Text, <hi>v.</hi> 15. are ſo <hi>heard</hi> in Heaven, that they <hi>Reſound</hi> on Earth: ſo the <hi>War in Heaven,</hi> c. 12.7. was Counterparted in that Famous <hi>Battel</hi> of <hi>Theodoſius</hi> the <hi>Great</hi> on <hi>Earth</hi> with <hi>Eugenius</hi> and <hi>Ar<g ref="char:EOLhyphen"/>gobaſtes.</hi> So when the Purity of the <hi>Witneſs-Churches</hi> is from that time Decreed, Eſtabliſhed in Heaven, It is as if the <hi>Wit<g ref="char:EOLhyphen"/>neſſes</hi> were <hi>call'd up into Heaven,</hi> and <hi>Aſcended in a Cloud,</hi> to Enjoy the ſtate of the <hi>Ark of Testament</hi> in the <hi>Temple,</hi>
+                  <note place="margin">
+                     <hi>v.</hi> 19. <hi>c.</hi> 15.5.</note> 
+                  <hi>ſeen</hi> and <hi>opened</hi> in Heaven ſpeedily after; and Anſwered by a ſtate on Earth; and into that great <hi>Conſeſſus</hi> or <hi>Glorious Aſſem<g ref="char:EOLhyphen"/>bly</hi> Repreſenting the <hi>Arche-Type</hi> or Original Pattern of a tru<g ref="char:EOLhyphen"/>ly Glorious <hi>Chriſtian Church-ſtate</hi> which we have given, <hi>Rev.</hi> c. 4. c. 5.</item>
+               <item>2. It ſignifies the <hi>enjoying</hi> this <hi>pure Church state</hi> and <hi>Worſhip,</hi> with the <hi>Favour Countenance</hi> and <hi>Encouragement</hi> of <hi>Supreme Power</hi> and <hi>Authority,</hi> carrying and bearing them out in what they do; For ſo <hi>Heaven</hi> in this Prophecy, often ſignifies even <hi>Power</hi> and <hi>Authority.</hi>
+               </item>
+            </list>
+            <p>Thus <hi>Heaven</hi> ſignifies, <hi>Rev.</hi> 12.4. where the <hi>Stars of Hea<g ref="char:EOLhyphen"/>ven</hi> mean <hi>Supreme Princes,</hi> that the <hi>Roman Dragon</hi> or <hi>Imperial Power Bruſhed down with his Tail,</hi> or <hi>Train of Armies;</hi> and there is an Eye of the ſame ſenſe in the naming <hi>Heaven</hi> all a<g ref="char:EOLhyphen"/>long in that <hi>Context.</hi>
+            </p>
+            <p>Now for Thoſe who are Trodden down by Power and Strength, and have either been Affrighted from Worſhipping God according to his Word, to the great Wounding of Con<g ref="char:EOLhyphen"/>ſciences; Harraſs'd and <hi>Dragoon'd</hi> (as they ſpeak) into Ido<g ref="char:EOLhyphen"/>latry and Superſtition, or Galley'd, Impriſon'd, and Tor<g ref="char:EOLhyphen"/>tured to Death for Refuſing; whenever you ſhall ſee theſe <hi>Call'd</hi> up by a <hi>Loud Voice into Heaven,</hi> into ſuch an open a<g ref="char:EOLhyphen"/>vowed Worſhip of God, according to his Word, and ac<g ref="char:EOLhyphen"/>cording to their Proteſtations for Him, and have Power and Authority in, and with and of <hi>Themſelves</hi> ſo to do; This will be a great Effect of, and according to <hi>Prophecy;</hi> and becauſe
+<pb n="5" facs="tcp:97297:4"/>it is to Lead, and <hi>Go before the Face</hi> of many other great Ef<g ref="char:EOLhyphen"/>fects of <hi>Prophecy,</hi> and All before 97. It therefore requires to be done within a Little Time; and when you ſee it, Know that it is a <hi>Dawn of the Morning-Star,</hi> and that one of the Fore<g ref="char:EOLhyphen"/>moſt in the Train of theſe Great Effects for the <hi>Kingdom of Chriſt</hi> is in your Eye; and ſo that the Reſt are coming on, and the very <hi>Kingdom</hi> it ſelf <hi>Coming upon us.</hi>
+            </p>
+            <p>
+               <hi>Effect</hi> 3. There muſt, according to the <hi>Prophecy,</hi> be ſuch an <hi>Earthquake,</hi> that the <hi>Great Cities Tenth ſhall Fall;</hi> where, by <hi>Tenth,</hi> as I have always declar'd, I underſtand its <hi>Decem Princi<g ref="char:EOLhyphen"/>pality,</hi> that Complex of <hi>Ten Kings,</hi> that gives it its Grandeur: For they <hi>giving their Power</hi> to the <hi>Beaſt,</hi> or <hi>Pope</hi> of <hi>Rome,</hi> and its (Call'd) <hi>Catholick Church;</hi> and He bearing up that <hi>City</hi> and <hi>Church,</hi> that <hi>ſits</hi> upon <hi>His Supremacy,</hi> as on a <hi>Mountainous</hi> Heighth; whenever the <hi>Words of God</hi> are ſo <hi>fulfill'd</hi> in the <hi>Beaſt's</hi> having had his <hi>Forty Two Moons;</hi> that they ſhall give their <hi>Power</hi> no longer, but withdraw their <hi>Kingdoms</hi> from the <hi>Beaſt,</hi> that <hi>Tenth</hi> of the <hi>Great City</hi> muſt needs <hi>Fall.</hi> And it is very Remarkable, that as here it is ſaid, The <hi>Tenth</hi> of the <hi>City</hi> Falls firſt, in <hi>c.</hi> 17. it is ſaid, firſt <hi>They ſhall hate the Whore;</hi> that is, the <hi>Church of Rome.</hi> But then it is intimated, that the Reaſon is, <hi>the Words of God are fulfilled</hi> concerning their <hi>gi<g ref="char:EOLhyphen"/>ving their Kingdom, Power</hi> and <hi>Might</hi> to the <hi>Beast</hi> for ſuch a Time, <hi>viz. the</hi> 42 <hi>Moons.</hi> So theſe Two Things are made Re<g ref="char:EOLhyphen"/>ciprocal: For whenever They Hate <hi>the Whore,</hi> Then will be a withdrawing their <hi>Kingdom from the Beast,</hi> the <hi>Words of God</hi> being at the ſame time <hi>Fulfill'd;</hi> When they withdraw their <hi>Kingdom</hi> from the <hi>Beast,</hi> They preſently will <hi>hate the Whore,</hi> and <hi>make her Deſolate</hi> and <hi>Naked;</hi> But either, and both ways the <hi>Tenth of the Great City Falls:</hi> That is, the Greatneſs, whoſe <hi>Symbol</hi> or <hi>Figure</hi> in <hi>Prophecy</hi> is <hi>Ten</hi> or <hi>Tenth,</hi> becauſe of the <hi>Ten Toes, Ten Horns, Ten Kings,</hi> made Eſſential to the <hi>An<g ref="char:EOLhyphen"/>tichristian</hi> State by <hi>Prophetick Oracles;</hi> and within this Time,<note place="margin">
+                  <hi>Dan.</hi> 2. <hi>c.</hi> 7.</note> even before 97. All theſe <hi>Kings</hi> ſhall thus <hi>hate the Whore,</hi> ſhall thus Reverſe, Recall and Reprize their <hi>Force, Power</hi> and <hi>King<g ref="char:EOLhyphen"/>dom</hi> from the <hi>Beast,</hi> becauſe the <hi>words</hi> of God will be <hi>fulfill'd.</hi> Some have done it, at leaſt, in great part. All ſhall do it then
+<pb n="6" facs="tcp:97297:5"/>together, and All ſhall do it to Perfection. And it appears by this <hi>Prophecy,</hi> they ſhall bring ſome Ruine and Deſolation by Ravage and Fire on <hi>Rome</hi> it ſelf, as a <hi>prelude</hi> and fore running of that Final Deſolation and Fire, <hi>c.</hi> 18.</p>
+            <p>And what will you ſay, when you ſhall ſee the <hi>Empire, Spain, Portugal, Poland,</hi> the <hi>Catholick,</hi> as they are call'd, <hi>Cantons,</hi> and even <hi>France,</hi> and that firſt of the Reſt, do this? You will Re<g ref="char:EOLhyphen"/>member what I have this Day ſpoken in your Ears; and you will then believe the <hi>Kingdom of God is coming nigh to you;</hi> when you compare what I declare to you from the Word of God, and what you ſee come to paſs; and you will eaſily al<g ref="char:EOLhyphen"/>low, That according to the uſual Progreſs of Providence, if This be to be done by 97, there had need be a ſpeedy Begin<g ref="char:EOLhyphen"/>ning; For you at this time, I am ſure, will be more ready to ſay, The Time is too ſhort, and ſtrait, even already for it to come ſo ſoon to paſs. And yet I muſt confeſs, either this muſt be by 97, or the Expoſition, and <hi>Line</hi> of <hi>Prophetick Time,</hi> I have given, muſt Fall.</p>
+            <p>
+               <hi>Effect.</hi> 4. <hi>Seven Thouſand Names</hi> of Men ſhall be ſlain in the <hi>Earthquake,</hi> this mighty Change and Shake of Things: There is, I make no great Doubt, ſome Alluſion in theſe <hi>Seven Thouſand</hi> to the <hi>Sabbatick</hi> Number, of ſo great Uſe in All Things that concern the Kingdom of Chriſt; as it is ſaid, <hi>Ezek.</hi> 39.9. They ſhall be Burning the Weapons of <hi>Gog Seven Years,</hi> and cleanſing the Land, of <hi>Gog's</hi> Remains, <hi>Seven Months,</hi> v. 12.</p>
+            <p>But how Admirably alſo does this ſet out the Multitude of Names, Offices and Places in the <hi>Roman Papacy, Hierarchy</hi> and Grandeur: ſo great a Multitude, that One would be Temp<g ref="char:EOLhyphen"/>ted to think the very Letter of 7000 is fulfill'd therein: It re<g ref="char:EOLhyphen"/>quires much Learning in thoſe <hi>Names</hi> of Men, to make a Regiſter of their Quality and Number; Cardinals, Archbi<g ref="char:EOLhyphen"/>ſhops, Biſhops, Abbots, Priors, <hi>&amp;c.</hi> are known as Stars of grea<g ref="char:EOLhyphen"/>ter Magnitude. But there are thoſe ſo out of common Ken, and the <hi>Sporades,</hi> the innumerable Leſſer Stars, that he muſt be more than ordinarily Learned, that can <hi>call them All by their Names.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:97297:5"/>
+Now if you Live to ſee all theſe <hi>Slain,</hi> as the <hi>Witneſſes</hi> have been, and as yet they lie <hi>Slain in France,</hi> utterly Diſpirited; and with Them, what ever is Deriv'd, not to ſay, Spawn'd from Them, or bears Allyance or Affinity with Them; even among thoſe who are on the Part of that <hi>Synagogue</hi> of <hi>Satan</hi> Venerated under the Hoary Vizor of Antiquity, ſhall Fall at the very ſame Time by 97. or very ſoon after, and They be <hi>Bow<g ref="char:EOLhyphen"/>ing</hi> and Valing at <hi>Philadelphias Feet;</hi> You will then ſay, I have truly Expounded the <hi>words of the Lord</hi> to you; But if you find no ſuch thing, I muſt <hi>lye Down</hi> in <hi>ſhame,</hi> and <hi>confuſion of Face,</hi> and own to you, I am <hi>found a Falſe Witneſs of God,</hi> and think my ſelf, indeed, of <hi>all men moſt Miſerable,</hi> in ſaying God hath Declar'd he will do ſuch things, and by ſuch a time, in the <hi>ſure Word of Prophecy,</hi> which he hath not Declared, nor will do.</p>
+            <p>But I have no Fear, nor Diſtruſt herein, and yet I am very ſenſible, as <hi>Jeremy</hi> Speaks, <hi>When the word of the Prophet ſhall come to paſs,</hi> then it will be <hi>known, The Lord hath ſpoken by him.</hi> So I, that pretend to no Impulſe, to no Impreſſion, but to Argue upon the very written Word, and Letter of Scrip<g ref="char:EOLhyphen"/>ture, in compare with it ſelf, may Humbly ſay; <hi>when theſe things come to paſs,</hi> Then you will know that by holding to the True Senſe <hi>of the Teſtimony of Jeſus</hi> by his <hi>Prophets,</hi> That true ſenſe is the <hi>Spirit of Prophecy,</hi> and I have aright given it to you.</p>
+            <p>When you ſhall hear of, and ſee a far greater <hi>Slaying</hi> theſe <hi>Names of Men</hi> throughout the Chriſtian Profeſſion than when King <hi>Henry</hi> the 8th, here in <hi>England</hi> ſlew, that i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Diſ-Autho<g ref="char:EOLhyphen"/>rized ſo many Names of <hi>Abbots, Priors, Monks</hi> of ſeveral Or<g ref="char:EOLhyphen"/>ders, and Diſtinctions of <hi>Fryars,</hi> and laid them in the Duſt; You will then call to mind, what I now make known to you, and Believe, This is indeed according to the <hi>Teſtimony</hi> of <hi>Jeſus,</hi> and to the <hi>Spirit</hi> of <hi>Prophecy.</hi>
+            </p>
+            <p>I wait therefore, to ſee what God will herein do, and when he will begin to Work; For when he will begin, <hi>Nothing</hi>
+               <pb n="8" facs="tcp:97297:6"/>ſhall <hi>Let Him, His Reward</hi> is <hi>with Him,</hi> and his <hi>Work before Him.</hi>
+            </p>
+            <p>
+               <hi>Event</hi> 5. The <hi>Remnant</hi> ſhall be <hi>Affrighted,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> They ſhall be <hi>Magor-Miſſabibs, Fear round about,</hi> all Fear; and ſo ſhall <hi>give Glory</hi> to the God of Heaven; that is, there ſhall be abun<g ref="char:EOLhyphen"/>dance of Converſions to the Power and Purity of Chriſtian Religion; So that every way the Potentacy of <hi>Rome,</hi> and its <hi>Papacy</hi> and <hi>Hierarchy</hi> muſt Fall;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> For the <hi>Remnant,</hi> All Suc<g ref="char:EOLhyphen"/>ceſſions of Men to the Kingdom of Chriſt ſhall <hi>Hear</hi> and <hi>Fear:</hi> For They ſhall <hi>wiſely conſider</hi> Gods <hi>Doing</hi> and ſhall be afraid to Joyn themſelves to a Falſe Religion, that God hath ſo Remon<g ref="char:EOLhyphen"/>ſtrated from Heaven againſt. And this is indeed to <hi>give Glo<g ref="char:EOLhyphen"/>ry to the God of Heaven.</hi>
+            </p>
+            <p>
+               <hi>Event.</hi> 6. The Second Woe, <hi>viz.</hi> That of the <hi>Mahomet an Turks,</hi> ſhall be wholly ceſſated, and <hi>paſs away:</hi> So that the <hi>Grecian Churches,</hi> however ſo Dark now, under the very Black Wings of Antichriſtianiſm, ſhall come out of Both Slaveries; They that have lain among the Pots ſhall be made as the <hi>Wings</hi> of <hi>a Dove, covered with Silver,</hi> and her <hi>Feathers</hi> with Yellow Gold. That Great Name of Power and Tyranny, <hi>Grand Sig<g ref="char:EOLhyphen"/>nior</hi> and <hi>Sultan,</hi> ſhall be diſmounted from the Hills of <hi>Conſtan<g ref="char:EOLhyphen"/>tinople,</hi> on which it is ſeated, as a <hi>Nova Roma,</hi> as it ought to be; that it may be a Woe on <hi>Old Rome,</hi> and from that con<g ref="char:EOLhyphen"/>fluence of Seas, and their <hi>Boſphorus;</hi> in Regard of which it claims to be as the Port or Haven of the World. Thus <hi>Daniel</hi> of Old propheſied of that <hi>Turkiſh</hi> King of the <hi>North,</hi> planting his <hi>Palace</hi> between the Seas. But then to the Wonder and A<g ref="char:EOLhyphen"/>mazement of the World, <hi>He ſhall come to his End,</hi> and none ſhall <hi>help him.</hi> However he is now holpen by <hi>France,</hi> All ſhall be Removed as a Cottage or Shepherd's Tent, and the <hi>Seven Aſian Churches,</hi> whoſe Candleſticks and Lights have been Co<g ref="char:EOLhyphen"/>vered ſo long under that Night, ſhall begin again to look Bright. When you ſee this come to paſs, you ſhall know there hath been a Scripture-Prophecy concerning it. And if This be to be done by 97, how ſhould we cry out, <hi>Awake;</hi> Oh <hi>Arm</hi> of the <hi>Lord, Awake; put on ſtrength, as in the Days of Old!</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:97297:6"/>
+I come in the Second place to Argue upon the Time, when This is All to be, according to this very Prophecy. And This is the general Expreſſion of it; <hi>After Three Days and a Half.</hi> Now this may look, as if the <hi>Three Days,</hi> and <hi>a Half,</hi> were to be fully paſt, and ended; and ſo nothing would be to be Looked for till 97. were fully come, and paſt, according to my Calculation of Time; And then theſe Great Events would find place, and Room for Themſelves to come on. But as I have always endeavour'd to make out, Theſe <hi>Three Days and a Half,</hi> are Equal with the 1260 <hi>Days,</hi> except only, as a deep part is particularly implied, when that whole and intire ſpace is yet preſerv'd, and expreſs'd. And it is therefore given in <hi>Three Days,</hi> and <hi>a Half,</hi> by a Little Variation from <hi>Three Times and a Half,</hi> that it may bear a Reſemblance to the <hi>Three Days</hi> of our <hi>Lord in the Grave; viz.</hi> the Evening of the Firſt Day, which is our Sixth Day; or which we; not ſo Agreeably with Scripture Language; becauſe in <hi>Gentile Times;</hi> call <hi>Fri<g ref="char:EOLhyphen"/>day;</hi> the whole of the Second, which was the Seventh Day, and the <hi>Jewiſh Sabbath;</hi> and the Night, till towards Morning of the Third Day, which was the <hi>Jews</hi> Firſt, and our <hi>Lord's Day.</hi> And this Riſing was in the Night towards Morning, (as the <hi>Jews,</hi> from the Creation, Account the Night of every Day be<g ref="char:EOLhyphen"/>fore the Day) For <hi>John</hi> 20.1. we are Aſſur'd, <hi>Early in the Morn<g ref="char:EOLhyphen"/>ing,</hi> while it was <hi>yet Dark, Mary Magdalen</hi> came to <hi>the Sepul<g ref="char:EOLhyphen"/>chre,</hi> and found <hi>Chriſt Riſen;</hi> yet, as it were, on purpoſe to Expound to us the [<hi>After Three Days and a Half</hi> here in this <hi>Prophecy.</hi>] This very Manner of Riſing of our Lord (ſo far as can be perceiv'd by Compare of the <hi>Evangelists</hi>) as ſoon as ever the <hi>Seventh Day,</hi> or <hi>Sabbath,</hi> was paſt, and his Third, our <hi>Lord's Day,</hi> but juſt entred, he <hi>Aroſe.</hi>) This very Manner of <hi>Riſing,</hi> I ſay again, on the very Entrance of the <hi>Third Day,</hi>
+               <note place="margin">In both, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> is call'd, <hi>Mark</hi> 8.31. <hi>After Three Days:</hi> even as here, <hi>After Three Days, and a Half.</hi>
+            </p>
+            <p>Thus there was Liberty for a Partial Riſing of the <hi>Witneſſes,</hi> as ſoon as ever it was <hi>Half Time,</hi> which Fell out, in <hi>Luther</hi>'s Ap<g ref="char:EOLhyphen"/>pearance 1517. (exactly according to my Account of Time), Then the 180 years of <hi>Half Time</hi> entred, which ſhall therefore end 97. according to that Exactneſs.</p>
+            <p>
+               <pb n="10" facs="tcp:97297:7"/>
+And this firſt Appearance of the <hi>Reformation</hi> by <hi>Luther,</hi> was like the Appearance of Chriſt in his <hi>Reſurrection:</hi> It was ſome Time he had been Riſen; how long we cannot certainly find; e're it was any way known on Earth: He was Riſen All that Day; But He was very Retired, Appearing only to ſome very few of his <hi>Diſciples,</hi> as if ſtill Dead. But in the <hi>Evening,</hi> even then when the <hi>Doors</hi> were <hi>ſhut,</hi> for <hi>Fear</hi> of the <hi>Jews,</hi> Chriſt miraculouſly paſs'd through the <hi>ſhut Doors,</hi> and Appear'd to the whole <hi>Eleven,</hi> ex<g ref="char:EOLhyphen"/>cept <hi>Thomas;</hi> and gave Them, with the Solemnity of <hi>Breathing</hi> on Them, the <hi>Promiſe of the Spirit,</hi> tho the Spirit it ſelf did not come down till <hi>Pentecoſt</hi> was <hi>fully come.</hi> And thus I doubt not at the Latter part of <hi>Half Time,</hi> tho All <hi>Doors</hi> ſeem now cloſe ſhut, and there is ſo great a Fear of <hi>Falſe Jews,</hi> or <hi>Antichri<g ref="char:EOLhyphen"/>ſtian Tyranny,</hi> in ſo many places, that the <hi>Witneſſes</hi> cannot meet Boldly; yet that Chriſt will make his way through all Bars; And as there was <hi>a Partial Riſing</hi> at the Firſt of <hi>Half Time,</hi> that hath been hitherto with much Reſervedneſs; yet All will now open in the <hi>Evening,</hi> and there will be a <hi>Spirit of Life,</hi> a <hi>Breath<g ref="char:EOLhyphen"/>ing</hi> on all the Witneſſes by the Spirit of Chriſt; tho the full pour<g ref="char:EOLhyphen"/>ing of it out will not be till the <hi>Kingdom of Christ</hi> in its Suc<g ref="char:EOLhyphen"/>ceſſion, after 97. in the Days of the <hi>Seventh Trumpet,</hi> when the 144000 ſhall appear with the <hi>Lamb</hi> on Mount <hi>Sion.</hi>
+            </p>
+            <p n="3">3. If we conſider the more particular preciſe Time, <hi>In the ſame Hour,</hi> it may yield us ſome further Light. Now, tho I would not be too curious and preciſe in Minute Points of Time; yet I have Accounted the Hours of the <hi>Half Day</hi> which are 12, according to the Natural Diſtribution of Time; and in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>80 years there are 15 years to an Hour; ſo that we are ſome<g ref="char:EOLhyphen"/>what paſt the Laſt Half Hour. We may then hope, that as there was <hi>Half an Hours Silence</hi> ſet for the Churches continuing in the Worſhip of God, ſo as not to ſuffer the Taking away the <hi>Daily Sacrifice;</hi> and at the <hi>Half Hours</hi> End the <hi>Apoſtacy</hi> en<g ref="char:EOLhyphen"/>tred; and as at that <hi>Half Hour</hi> made an whole <hi>Hour, Antichriſt himſelf,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 8.1. <hi>c.</hi> 17.12.</note> call'd the <hi>Beaſt,</hi> entred with his <hi>Ten Kings;</hi> ſo within this Laſt Half Hour, The <hi>Apoſtacy</hi> ſhall ceaſe, and at the End of the Hour, <hi>viz.</hi> at 97. The <hi>Kingdom of Christ</hi> ſhall be in its Succeſſion.</p>
+            <p>
+               <pb n="11" facs="tcp:97297:7"/>
+               <hi>Object.</hi> There is one Objection, Theſe Hopes of ſo ſoon Ap<g ref="char:EOLhyphen"/>pearances of God in the <hi>Witneſſes</hi> may ſeem to be encountred by, <hi>viz.</hi> ſeeing the <hi>Witneſſes</hi> are to be in <hi>Sackcloth,</hi> during the 1260 <hi>Days;</hi> and that a <hi>Day</hi> for a <hi>Year</hi> is ſo Preciſe and Limit<g ref="char:EOLhyphen"/>ed a Time; it will allow no ſuch Latitude, as that before the laſt Year there ſhould be any ſo Advantageous Change in the <hi>Wit<g ref="char:EOLhyphen"/>neſſes</hi> Condition, as this Diſcourſe Repreſents.</p>
+            <p>
+               <hi>Anſw.</hi> This Argument is, I confeſs, ſo preſſing, that it muſt be acknowledg'd; The <hi>Witneſſes</hi> cannot come out of their <hi>Sackcloth,</hi> till that very 1697. For all theſe Effects I have now Nam'd, being in a Concatenation; and then that great<g ref="char:EOLhyphen"/>eſt Effect of the <hi>Kingdom of Chriſt</hi> coming into its Succeſſi<g ref="char:EOLhyphen"/>on, not being till that very End of the 1260 days; The Wit<g ref="char:EOLhyphen"/>neſſes are till then willingly, and even deſirouſly in a State of Waiting, and of <hi>Prophecy</hi> in <hi>Sackcloth;</hi> Even, tho call'd up into ſuch a State in <hi>Heaven,</hi> as I have Deſcrib'd; Yet they Humble themſelves in <hi>Fasting, Sackcloth</hi> and <hi>Aſhes,</hi> till that very Time is come, when the Kingdoms of this World ſhall be <hi>Proclaim'd</hi> to be the Kingdoms of the Lord and of his Chriſt; The more the Light and Power of Chriſt Appears on the <hi>Witneſſes,</hi> the more they <hi>Prophecy</hi> in <hi>Sackcloth;</hi> that is, Foretel, Deſire, and in Humiliation wait for that Kingdom ſo to be Proclaim'd, and cannot be ſatisfied without it.</p>
+            <p>But that there might be ſuch a Freedom left by God to him<g ref="char:EOLhyphen"/>ſelf to make a change of the Witneſſes State, ſo much for the better, as He did in the Beginning, ſo in the End of <hi>Half Times;</hi> He caſt the Time of the <hi>Antichriſtian Tyranny</hi> and of the <hi>Witneſſes</hi> Sufferings into <hi>Three Times</hi> and an <hi>Half,</hi> and near<g ref="char:EOLhyphen"/>er into <hi>Three Days</hi> and an <hi>Half;</hi> That there might be a Con<g ref="char:EOLhyphen"/>formity to the <hi>Faithful Witneſs Chriſt Jeſus;</hi> of whom it is ſaid, <hi>It was impoſſible he ſhould be holden of</hi> Death, but muſt overcome it in the very firſt Minute of Time; and ſo far as could conſiſt with the Wiſeſt allowance for the ſatisfaction of Divine Juſtice for mans ſins, and Truth of <hi>Prophecy.</hi> So the <hi>Wit<g ref="char:EOLhyphen"/>neſſes</hi> muſt in and through Him, and in Conformity to Him, have a partial Riſing at the very begining of <hi>Half</hi> Time, and a Full one before the End of <hi>Half Time.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:97297:8"/>
+There remains only to draw up the Diſcourſe into particu<g ref="char:EOLhyphen"/>lar Uſe, and Application.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> 1. Let us upon this Diſcourſe diligently wait, and ob<g ref="char:EOLhyphen"/>ſerve, what God will pleaſe to be doing this, and the following years, to 97. It is a Sin at any time, <hi>not to Regard the Works of the Lord, and the Operations of his Hand;</hi> But it is much more ſo, when we are Warned and Admoniſhed, and aſſur'd that the <hi>Kingdom of God</hi> is come nigh to us, It is then ſuch a ſin, that there is great Reaſon to Fear, God will <hi>pull ſuch Down</hi> from their Preſent State, and not <hi>Build them up in his New</hi> Jeruſalem.</p>
+            <p>If we then ſhall obſerve theſe Things coming to paſs; How ſhould It Convince, and Aſſure us of the Word of God in all its Truth! and certainly if God <hi>Anſwers us now</hi> by <hi>Terrible things in Righteouſneſs,</hi> which we could not have <hi>Looked for,</hi> had we not been thus Awaked by his <hi>Prophetick Oracles;</hi> if we ſhall ſee the <hi>Mountains</hi> of the Preſent State <hi>Flow Down at his Pre<g ref="char:EOLhyphen"/>ſence,</hi> and the Mountain of his Kingdom not only <hi>Standing Faſt,</hi> being <hi>Girded with Power,</hi> but beginning to <hi>Fill the Earth,</hi> while the Vallies grow to ſuch a Fruitfulneſs, as to <hi>Laugh</hi> and alſo to <hi>Sing;</hi> How will it Aſſure us of All Things elſe we Find in <hi>Prophecy?</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 2. Let us, by earneſt Prayer, ſtand upon our <hi>watch Tow<g ref="char:EOLhyphen"/>er,</hi> and <hi>wait</hi> to ſee what <hi>God will ſay to us;</hi> And if we ſeem to be <hi>Reproved</hi> by contrary Appearances of Providence, what we ſhall Anſwer: I have Endeavour'd to <hi>write</hi> the <hi>Viſion,</hi> and to <hi>make it plain upon Tables,</hi> that <hi>he may Run that Reads it.</hi> I have been Bold to Declare the Time, the Viſion is Appoint<g ref="char:EOLhyphen"/>en for; If any Mans <hi>Heart</hi> be <hi>Lifted</hi> up in <hi>Scorn</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nbe<g ref="char:EOLhyphen"/>lief</hi> of it; <hi>It is not upright in Him:</hi> For the <hi>Viſion</hi> will <hi>Speak,</hi> and will not <hi>Lye;</hi> Tho it ſhould ſeem to Tarry this Year; Yet it will not Tarry. God hath given me herein, I Bleſs his Holy Name, the <hi>Spirit,</hi> not of <hi>Fear,</hi> or <hi>Diſtruſt;</hi> but of <hi>Love,</hi> and Deſire, Theſe Things may come to paſs for the Glory of Chriſt, and his Kingdom; of Power to Declare them; and of a ſound <hi>ſober Mind,</hi> not Phantaſtry, or Enthuſiaſm, but of Reliance upon what is Written; and I am waiting at the Foot of God,
+<pb n="13" facs="tcp:97297:8"/>to ſee, whether theſe <hi>Matters</hi> will <hi>hold Good or not.</hi> I beſeech your <hi>Help</hi> by <hi>Prayers,</hi> and <hi>Earnest striving therein,</hi> All you, who <hi>wait for the Conſolation of</hi> Iſrael. It will not hinder, but promote your Salvation; ſince waiting for the <hi>Kingdom of Christ,</hi> is both ſo great a Grace, and Duty, <hi>pray for the Peace of</hi> Jeruſalem; <hi>They ſhall proſper that Love it:</hi> There are ſet <hi>Thrones</hi> of the <hi>Judgment of Chriſt.</hi> and his <hi>Saints.</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 122.6.</note> There is the <hi>General Aſſembly</hi> of <hi>Brethren,</hi> and <hi>Companions</hi> of <hi>Saints.</hi> For all theſe <hi>Sakes,</hi> Let us not <hi>hold</hi> our <hi>Peace</hi> at <hi>ſuch a Time as this;</hi> Let us give God no Reſt, till <hi>Jeruſalem</hi>'s <hi>Salvation go forth,</hi> as a <hi>Lamp</hi> that Burns, and become a <hi>Praiſe in the Earth.</hi> If you ſay, The Profaneneſs, Carnality, Wickedneſs of Prote<g ref="char:EOLhyphen"/>ſtants, and even of Profeſſors of all ſorts, is ſo great, we are Riper for Judgment than Mercy, and can expect that only.</p>
+            <p>Remember; This Day, that is a coming, whoever are not Reform'd by the Methods of Grace before it; It will flame out upon Them, as an <hi>Oven.</hi> And why ſhould it be ſtrange, There ſhould be a mighty Grace of the Goſpel firſt, a Miniſtry in the <hi>Spirit,</hi> and <hi>Power</hi> of <hi>Elijah,</hi> to <hi>Turn the Hearts,</hi> &amp;c. <hi>leſt Christ come,</hi> and <hi>ſmite the Earth with a Curſe.</hi> And that for this, <hi>God</hi> ſhould, as all along, <hi>Ezek.</hi> 20. <hi>work for his Names,</hi> his <hi>Kingdoms ſake,</hi> notwithſtanding all Provocations.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 3. This is the great Hopes we have of good Succeſs up<g ref="char:EOLhyphen"/>on the Undertaking of <hi>Proteſtant Princes,</hi> and their Arms, and that ſuch a <hi>Confederacy</hi> as they are in, ſhall be Bleſs'd, as a Means to Turn the Hearts of <hi>Princes,</hi> yet joyned to <hi>Rome</hi> and its <hi>Papacy</hi> to Hate it; particularly, of All Bleſſing on our <hi>Princes,</hi> and <hi>Nation,</hi> and <hi>Forces</hi> by Land and Sea: Yea, it is the Univerſal Hope and Happineſs of all the Servants of Chriſt, of all his Witneſſes, in whatever Suffering Condition They are. They ſhall all Riſe by a <hi>Spirit of Life from God,</hi> and <hi>stand up<g ref="char:EOLhyphen"/>on their Feet,</hi> under whatever Oppreſſion, whether of the Throne, or of the <hi>They</hi> on the part of the <hi>Synagogue of Satan,</hi> or their own private Unhappineſſes. They ſhall All be <hi>Aſcend<g ref="char:EOLhyphen"/>ing</hi> into Free Worſhip of <hi>God,</hi> and with All Authority, and Amplitude of Condition. Let us therefore earneſtly cry out, <hi>Awake, Awake, O Arm of the Lord; make thyſelf Bare,</hi> as in the <hi>Days of Old,</hi> the <hi>Years of Ancient Times.</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:97297:9"/>
+               <hi>Object.</hi> Whereas we may be Ready to ſay, Why is not this Time then more generally Underſtood?</p>
+            <p>
+               <hi>Anſ.</hi> I deſire your Conſideration <hi>Haggai,</hi> 1.2. It was much ſuch a Time in Relation to <hi>Jeruſalem,</hi> and the <hi>Temple</hi> of Old; They were between <hi>Cyrus</hi> his Decree, and the Complemental Accompliſhment of it; as we are between the Beginning, and upon end of the <hi>Half Time;</hi> There had been about 20 years from the end of the 70 of Captivity, ſet ſo often by <hi>Je<g ref="char:EOLhyphen"/>remy;</hi> The <hi>Veſſels</hi> of the <hi>Lord</hi>'s <hi>Houſe</hi> had been <hi>Viſited,</hi> and Reſtored by <hi>Cyrus;</hi>
+               <note place="margin">
+                  <hi>Ezra</hi> 1.7.</note> 
+               <hi>Daniel</hi> had Computed and Found the Time of the Deſolations at an End ſo long ago; Yet they ſaid, <hi>The Time is not yet come to Build the Houſe of the Lord:</hi> What Argument then is this, Men generally know not this Time? But God Derides and Scorns their Hipocriſy, as I make no doubt, He does Theirs, who Live in their <hi>Cieled Houſes</hi> by the Benefit of the <hi>Reformation</hi> ſo far Vochſafed to us, and God's Care over our Proteſtant Nation; And ſays the <hi>Time</hi> for the <hi>Kingdom</hi> of Chriſt is not yet: <hi>Is it for you,</hi> Oh ye! pittiful, ungrateful Ones? And is it not Time for me? Is it a Time for your Lordſhips, Dignities, Grandieur, Palaces, and is it not yet Time for my <hi>Glory,</hi> for my <hi>Kingdom?</hi> This Cauſes All the Blaſts, Comings to nothing of our great Ex<g ref="char:EOLhyphen"/>pectations, becauſe the <hi>Houſe of God lies Wast, The Kingdom of God is not Minded?</hi> This Cauſes all the Miſery, Poverty, Complaint of Taxes, Wants, becauſe we do not look to God's Kingdom? When we do, From that Day let us Count God will Bleſs us. Oh! when will This Spirit be given to <hi>Zerubbabel</hi> and <hi>Joſhua?</hi> Surely it will come as <hi>a Spirit of Life from God</hi> very ſuddenly upon his Witneſſes, and ſtir Them Up; and all ſhall Work together for the Houſe of our God, and of his Kingdom.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:97297:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
